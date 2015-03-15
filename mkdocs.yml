@@ -1,0 +1,15 @@
+site_name: SurvivorMIS Documentation
+site_url: http://www.survivormis.com
+site_description: SurvivorMIS Documentation
+
+repo_url: https://github.com/SurvivorMIS/
+
+pages:
+- [index.md, Home]
+- [technical_roadmap.md, Roadmap]
+
+theme: readthedocs
+theme_dir: 'readthedocs_theme_overwrite'
+
+copyright: Copyright &copy; 2015, <a href="https://SurvivorMIS.com">SurvivorMIS</a>.
+google_analytics: ['UA-57400959-1', 'survivormis.com']
