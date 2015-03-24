@@ -10,20 +10,5 @@ The SurvivorMIS is built to be run at the point of care. In plain English, the s
 Shreya Shrestha created the foundation for the following use case descriptions in a consultancy in 2014. These use cases describe the flow of individuals at one of the offices. This section contains a high level overview with specific details and graphics below.
 
 Steps:  
-
-<table style="float:left;">
-	<tr>
-		<td style="text-align: center;" colspan=2>Register at Reception</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;" colspan=2>Start Visit: Cursory Survivor Needs Assessment</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;" colspan=2>Decision Point: Encounter with Legal or Shelter team members</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;">Legal Team Encounter</td>
-		<td style="text-align: center;">Shelter Team Encounter</td>
-	</tr>
-</table>
+<img source="img/use_case_overview.svg" height="300"/>
 
