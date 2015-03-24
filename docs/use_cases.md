@@ -10,5 +10,5 @@ The SurvivorMIS is built to be run at the point of care. In plain English, the s
 Shreya Shrestha created the foundation for the following use case descriptions in a consultancy in 2014. These use cases describe the flow of individuals at one of the offices. This section contains a high level overview with specific details and graphics below.
 
 Steps:  
-<img source="img/use_case_overview.svg" height="300"/>
+<img src="img/use_case_overview.svg" alt="Use Case Overview" height="300"/>
 
