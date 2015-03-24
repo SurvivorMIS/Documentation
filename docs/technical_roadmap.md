@@ -1,8 +1,6 @@
-=================  
-Technical Roadmap  
-=================  
+#Technical Roadmap  
 
-v 1.0  
+##v 1.0  
 Version 1.0 of the OpenMRS focuses on deploying the core dashboard, allowing organizations to register survivors, start visits, admit for care and collect personal information. This limited feature set allows Maiti Nepal to get started entering information about current survivors while we continue developing future features. 
 
 The SurvivorMIS is under active development. Version 1.x will focus on bringing data collection capabilities for the shelter and legal sections of Maiti Nepal. Each of these questionnaires will have sections specifically tailored for service providers in the legal and shelter sections with access controls limiting sections of each form to a particular team.

@@ -6,10 +6,12 @@ repo_url: https://github.com/SurvivorMIS/
 
 pages:
 - [index.md, Home]
-- [technical_roadmap.md, Roadmap]
+- [use_cases.md, Use Cases]
+- [technical_roadmap.md, Software Roadmap]
 
 theme: readthedocs
 theme_dir: 'readthedocs_theme_overwrite'
+site_favicon: favicon.ico
 
 copyright: Copyright &copy; 2015, <a href="https://SurvivorMIS.com">SurvivorMIS</a>.
 google_analytics: ['UA-57400959-1', 'survivormis.com']
