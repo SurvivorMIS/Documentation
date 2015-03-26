@@ -8,6 +8,8 @@ pages:
 - [index.md, Home]
 - [use_cases.md, Use Cases]
 - [technical_roadmap.md, Software Roadmap]
+- [user_guide/index.md, User Guide]
+- [user_guide/login.md, Log in]
 
 theme: readthedocs
 theme_dir: 'readthedocs_theme_overwrite'
