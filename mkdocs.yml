@@ -5,11 +5,11 @@ site_description: SurvivorMIS Documentation
 repo_url: https://github.com/SurvivorMIS/
 
 pages:
-- [index.md, Home]
-- [use_cases.md, Use Cases]
-- [technical_roadmap.md, Software Roadmap]
-- [user_guide/index.md, User Guide]
-- [user_guide/login.md, Log in]
+- ['index.md', 'Home']
+- ['use_cases.md', 'Problem Definition, Use Cases & Information Model']
+- ['technical_roadmap.md', 'Software Roadmap']
+- ['user_guide/index.md', 'User Guide', 'User Guide']
+- ['user_guide/login.md', 'User Guide', 'Log in']
 
 theme: readthedocs
 theme_dir: 'readthedocs_theme_overwrite'
