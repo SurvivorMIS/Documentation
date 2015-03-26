@@ -8,7 +8,7 @@ pages:
 - ['index.md', 'Home']
 - ['use_cases.md', 'Problem Definition, Use Cases & Information Model']
 - ['technical_roadmap.md', 'Software Roadmap']
-- ['user_guide/index.md', 'User Guide', 'User Guide']
+- ['user_guide/index.md', 'User Guide', 'Introduction']
 - ['user_guide/login.md', 'User Guide', 'Log in']
 
 theme: readthedocs
