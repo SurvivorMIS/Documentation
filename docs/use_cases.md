@@ -7,7 +7,7 @@ The SurvivorMIS was built by the [Friends of Maiti Nepal](http://friendsofmaitin
 Organizations that combat human trafficking have a need to collect evidence and actionable information from the first interaction with a survivor until the moment they exit from care. The SurvivorMIS is structured to standardize and ease the information collection process for grassroots organizations working in this field. The SurvivorMIS allows functional groups to interact with the system. Each functional group has a different set of technical and informational needs as described in the following table. We define **the field** as a group of team members who are deployed for a short period, one day or less, to a location where they work in the community. **Satellite offices** are field locations that temporarily house survivors and begin providing primary services from the anti-trafficking organization. Note that not all organizations have satellite offices, but the flexibility remains in the system. Some teams deploy to the field from the central office. For example, a rescue team may deploy to the field to rescue victims from an exploitative situation. The central office is the location where the majority of services are delivered as well as the location where major organizational departments are housed. This is likely the location with the core management and ICT infrastructure. Finally we define external audiences as groups who do not have direct interaction with the client but require aggregate information.  
 
 The following table describes the technical and informational needs of each functional group:  
-<table>
+<table style="border: 1px solid black;">
 	<thead>
 		<tr>
 			<th colspan="4" style="text-align:center;"><b>Technical and Information Needs of Each Functional Group</b></th>
@@ -15,40 +15,40 @@ The following table describes the technical and informational needs of each func
 	</thead>
 	<tbody>
 		<tr>
-			<td><b>The Field</b></td>
-			<td><b>Satellite Offices</b></td>
-			<td><b>Central Office</b></td>
-			<td><b>External Audiences</b></td>
+			<td style="border: 1px solid black;"><b>The Field</b></td>
+			<td style="border: 1px solid black;"><b>Satellite Offices</b></td>
+			<td style="border: 1px solid black;"><b>Central Office</b></td>
+			<td style="border: 1px solid black;"><b>External Audiences</b></td>
 		</tr>
 		<tr>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Secure Survivor Registration through Mobile Phone</li>
-					<li>- Access to Existing Survivor Information through Mobile Phone</li>
-					<li>- Voice/SMS/Email communication</li>
-					<li>- Emergency Response Activation</li>
+					<li>Secure Survivor Registration through Mobile Phone</li>
+					<li>Access to Existing Survivor Information through Mobile Phone</li>
+					<li>Voice/SMS/Email communication</li>
+					<li>Emergency Response Activation</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Desktop access to information system (registration, review & data collection)</li>
-					<li>- Survivor Case Management (recording care, defining decisions and transferring for advanced service delivery)</li>
-					<li>- Voice/SMS/Email communication</li>
+					<li>Desktop access to information system (registration, review & data collection)</li>
+					<li>Survivor Case Management (recording care, defining decisions and transferring for advanced service delivery)</li>
+					<li>Voice/SMS/Email communication</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Desktop access to the information system (registration, review, data collection, & reporting)</li>
-					<li>- Robust reporting and aggregation of data from satellite offices and the field</li>
-					<li>- Survivor Case Management for long-term and advanced service delivery</li>
+					<li>Desktop access to the information system (registration, review, data collection, & reporting)</li>
+					<li>Robust reporting and aggregation of data from satellite offices and the field</li>
+					<li>Survivor Case Management for long-term and advanced service delivery</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Reports based on aggregated data</li>
-					<li>- Research</li>
-					<li>- Metadata sharing</li>
-					<li>- Sharing stories on media and social media</li>
+					<li>Reports based on aggregated data</li>
+					<li>Research</li>
+					<li>Metadata sharing</li>
+					<li>Sharing stories on media and social media</li>
 				</ul>
 			</td>
 		</tr>
@@ -56,33 +56,33 @@ The following table describes the technical and informational needs of each func
 			<td colspan="4"><b>Examples</b></td>
 		</tr>
 		<tr>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Surveillance teams</li>
-					<li>- Rescue teams</li>
-					<li>- Grassroots community teams</li>
-					<li>- Awareness raising and outreach teams</li>
+					<li>Surveillance teams</li>
+					<li>Rescue teams</li>
+					<li>Grassroots community teams</li>
+					<li>Awareness raising and outreach teams</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Transit Homes</li>
-					<li>- Acute Care providers such as hospitals</li>
+					<li>Transit Homes</li>
+					<li>Acute Care providers such as hospitals</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Headquarters</li>
-					<li>- Rehabilitation Centers</li>
-					<li>- Long-term care facilities</li>
+					<li>Headquarters</li>
+					<li>Rehabilitation Centers</li>
+					<li>Long-term care facilities</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Donors</li>
-					<li>- Academic institutions</li>
-					<li>- Governments</li>
-					<li>- Other organizations</li>
+					<li>Donors</li>
+					<li>Academic institutions</li>
+					<li>Governments</li>
+					<li>Other organizations</li>
 				</ul>
 			</td>
 		</tr>
@@ -90,33 +90,29 @@ The following table describes the technical and informational needs of each func
 			<td colspan="4"><b>Technology Needs</b></td>
 		</tr>
 		<tr>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Mobile phones with voice, SMS, data and email access</li>
-					<li>- Access to register survivors with the MIS through the browser or native application</li>
-					<li>- Backup paper data collection forms</li>
+					<li>Mobile phones with voice, SMS, data and email access</li>
+					<li>Access to register survivors with the MIS through the browser or native application</li>
+					<li>Backup paper data collection forms</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Desktop computers with printers</li>
-					<li>- Internet connection for access to the information system and email</li>
-					<li>- Backup paper data collection forms in case the information system is inaccessible</li>
+					<li>Desktop computers with printers</li>
+					<li>Internet connection for access to the information system and email</li>
+					<li>Backup paper data collection forms in case the information system is inaccessible</li>
 				</ul>
 			</td>
-			<td>
+			<td style="border: 1px solid black;">
 				<ul>
-					<li>- Desktop computers with printers</li>
-					<li>- Internet connection for access to the information system and email</li>
-					<li>- 3rd party aggregation software such as Microsoft Excel to meet the needs of external audiences</li>
-					<li>- Backup paper data collection forms in case the information system is inaccessible</li>
+					<li>Desktop computers with printers</li>
+					<li>Internet connection for access to the information system and email</li>
+					<li>3rd party aggregation software such as Microsoft Excel to meet the needs of external audiences</li>
+					<li>Backup paper data collection forms in case the information system is inaccessible</li>
 				</ul>
 			</td>
-			<td>
-				<ul>
-					<li>N/A</li>
-				</ul>
-			</td>
+			<td style="border: 1px solid black;">N/A</td>
 		</tr>
 	</tbody>
 <table>
@@ -129,6 +125,7 @@ Shreya Shrestha created the foundation for the following use case descriptions i
 
 Steps:  
 <img src="img/use_case_overview.svg" alt="Use Case Overview" height="300"/>
+
 
 ##SurvivorMIS Information Model  
 The OpenMRS team has created clearly defined [information model](http://en.flossmanuals.net/openmrs-guide/openmrs-information-model/) that are appropriate for users to understand. This section describes how the SurvivorMIS has implemented that information model. 
