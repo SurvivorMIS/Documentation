@@ -10,3 +10,6 @@ This section describes the steps to login to the SurvivorMIS.
 *(Note: Your login location will be saved the next time you login)*  
 
 4) Click Login *(if the login button is grey, you have to click the location)*  
+
+This will bring you to your homepage. Where you can find a survivor record, view active visits and register a new survivor.  
+<img alt="Screenshot of your user home." src="user_guide/img/user_home_screenshot.png"/>  
