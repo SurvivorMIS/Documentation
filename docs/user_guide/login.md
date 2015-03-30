@@ -1,3 +1,12 @@
 #User Guide Login Instructions
 
-This is a place holder page for the User Guide Login instruction page.
+This section describes the steps to login to the SurvivorMIS.
+
+1) Visit the homepage  
+<img src="img/login_screenshot_visit_homepage.png" alt="Screenshot of homepage"/>
+
+2) Type your Username and Password then click the login location  
+<img src="img/login_screenshot_completed.png" alt="Screenshot of completed login form. Notice the green login button."/>  
+*(Note: Your login location will be saved the next time you login)*  
+
+4) Click Login *(if the login button is grey, you have to click the location)*  
